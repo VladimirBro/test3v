@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  RaceControl
+
+  Created by Jack on 4/8/14.
+  Copyright (c) 2014 Technologies33. All rights reserved.
+*/
+
+"PLEASE_WAIT"="Please wait";
+
+"NO_NETWORK"="No Internet Available";
+
+"NO_EMAIL"="Enter email address";
+
+"NO_PASS"="Enter password";
+
+"NO_RE_PASS"="Re-enter password";
+
+"NO_PASS_MATCH"="Passwords do not match";
+
+"WRONG_EMAIL"="Enter a valid email address";
+
+"NO_USER_NAME"="Enter a user name";
+
+"NO_CAR_NO"="Enter car number";
+
+"FETCH_TRACK"="Fetching nearby track...";
+
+"FETCH_EVENT"="Fetching chanell...";
+
+"NO_TRACK"="No track found.";
+
+"PURCHASE_TITLE" = "Receive instant flags!";
+
+"PURCHASE_MSG" = "Get instant flags and messages from race control while driving. Spotter will make sure you are always notified so  you can easily focus on the race.";
+
+"MNTHLY_TEXT"="1 Month($29)";
+
+"YRLY_TEXT"="1 Year($199)";
+
+"NO_ANNOUNCEMENT" = "No announcements yet";

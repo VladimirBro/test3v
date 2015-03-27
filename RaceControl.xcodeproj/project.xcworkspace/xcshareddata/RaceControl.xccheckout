@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DF0CB85A-AC7D-4C05-8596-FD0732E77867</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RaceControl</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E535D577AD95EAF0F6F7A4711BEABBA99F480ABD</key>
+		<string>https://bitbucket.org/fw1/racercaster.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RaceControl.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E535D577AD95EAF0F6F7A4711BEABBA99F480ABD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/fw1/racercaster.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E535D577AD95EAF0F6F7A4711BEABBA99F480ABD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E535D577AD95EAF0F6F7A4711BEABBA99F480ABD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>racercaster-spotter-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
